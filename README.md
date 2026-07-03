@@ -13,7 +13,7 @@ This project performs Market Basket Analysis on retail transactional data to ide
 -Support, Confidence & Lift Analysis
 -Business Recommendations
 
-#Technologies
+# Technologies
 -Python
 -Pandas
 -NumPy
