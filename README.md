@@ -29,27 +29,4 @@ This project performs Market Basket Analysis on retail transactional data to ide
 -Promotional Campaigns
 -Customer Behavior Analysis
 
-# Repository Structure
-Market-Basket-Analysis-Using-Apriori/
-│
-├── README.md
-├── requirements.txt
-├── Market_Basket_Analysis.ipynb
-├── report/
-│   └── Marketing Analytics Report.pdf
-├── presentation/
-│   └── Market Basket Analysis.pptx
-├── dataset/
-│   └── market_basket_dataset.csv
-└── images/
-    ├── top_items.png
-    ├── association_rules.png
-    └── support_confidence.png
 
-# requirements.txt
-pandas
-numpy
-matplotlib
-plotly
-mlxtend
-jupyter
